@@ -6,7 +6,7 @@
     "web": "expo start --web",
     "start": "react-native start",
     "test": "jest",
-    "export": "rm -rf dist && expo export --public-url=https://raw.githubusercontent.com/samithaf/expo-sample-app/master",
+    "export": "rm -rf dist && expo export --public-url=https://raw.githubusercontent.com/AlefiyaG/testExpoOta/master/",
     "build:android": "cd android && ./gradlew clean assembleRelease"
   },
   "dependencies": {

@@ -12,6 +12,14 @@
     ],
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.test.expo.ota",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.test.expo.ota",
+      "versionCode": 1
+    }
   }
 }
