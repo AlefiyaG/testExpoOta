@@ -5,6 +5,6 @@
 	<key>EXUpdatesSDKVersion</key>
 	<string>37.0.0</string>
 	<key>EXUpdatesURL</key>
-	<string>https://raw.githubusercontent.com/samithaf/expo-sample-app/master/ios-index.json</string>
+	<string>https://raw.githubusercontent.com/AlefiyaG/testExpoOta/master/ios-index.json</string>
 </dict>
 </plist>
